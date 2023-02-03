@@ -3,6 +3,7 @@ C++ Language and Concepts
 	heap & stack
 		heap = global/static & slow
 		stack = local & high speed, RAM, LiFo, variable in function
+		
 	object lifetime, scope exit, order of initialization and stack unwinding
 	pass by reference vs. pass by value
 	the semantics of move (like std::move)
